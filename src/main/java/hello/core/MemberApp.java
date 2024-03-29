@@ -1,9 +1,9 @@
-package hello.springbasic;
+package hello.core;
 
-import hello.springbasic.member.Grade;
-import hello.springbasic.member.Member;
-import hello.springbasic.member.MemberService;
-import hello.springbasic.member.MemberServiceImpl;
+import hello.core.member.Grade;
+import hello.core.member.Member;
+import hello.core.member.MemberService;
+import hello.core.member.MemberServiceImpl;
 
 public class MemberApp {
     public static void main(String[] args) {
